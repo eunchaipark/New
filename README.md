@@ -20,7 +20,7 @@
     - **API:** FRED (Federal Reserve Economic Data) API 또는 경제 관련 공공 API
     - **데이터 항목:** GDP 성장률, 실업률, 소비자 물가 지수(CPI) 등
 - **범죄 데이터**
-    - **API:** FBI Crime Data API
+    - **API:**Kosis 통계청  API
     - **데이터 항목:** 범죄 유형, 발생 시간, 위치 등
     - [FBI Crime Data API](https://api.usa.gov/crime/fbi/cde)
 
